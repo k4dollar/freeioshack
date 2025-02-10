@@ -7,6 +7,7 @@
 - Supported All Versions 2.8, 2.9 …
 - Supported No JailBreak
 - IPhone IPad
+- Regulart updates and solutions to queries
 ## Features:
 - ESP [ Player, Vehicles, Items}
 - Items & Vehicles Icons
@@ -18,3 +19,5 @@
 - Enter Login Key and Activate Cheats You want
 - Antiban is not included, so don't Forget to use Your Own Antiban if You don't want get Banned
 - Double tap screen with three fingers to show or hide menu
+- Testflight installation available
+
