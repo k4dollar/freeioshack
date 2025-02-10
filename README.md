@@ -3,7 +3,7 @@
 ## JOIN OUR TELEGRAM CHANNEL FOR UPDATE
 [Click here to join](https://t.me/freeiosbgmi)
 - Support:BGMI / KR / PUBG /VN
-- Thanks to k4dollar for sharing a useful Cheat
+- Thanks to k4dollar for sharing useful Cheats
 - Supported All Versions 2.8, 2.9 …
 - Supported No JailBreak
 - IPhone IPad
